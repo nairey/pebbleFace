@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "nairey@me.com",
+    "longName": "Airey Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/download.png",
+                "menuIcon": true,
+                "name": "MY_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "MY_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_EXAMPLE_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_EXAMPLE_24",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Airey Watch",
+    "uuid": "7f7558f2-0a5e-4685-8505-ad51595a5c74",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
